@@ -29,10 +29,15 @@ This project presents a comprehensive system for detecting Distributed Denial-of
 
 ## 📁 Project Structure
 ├── data/ # Dataset folder
+
 ├── notebooks/ # Jupyter notebooks for each step
+
 ├── models/ # Saved model files (optional)
+
 ├── plots/ # Output figures
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies
 
 
